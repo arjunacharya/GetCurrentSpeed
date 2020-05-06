@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678886822310",
+    "firebase_url": "https://getcurrentspeed.firebaseio.com",
+    "project_id": "getcurrentspeed",
+    "storage_bucket": "getcurrentspeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678886822310:android:95f5976f504a1d2e5ebf67",
+        "android_client_info": {
+          "package_name": "com.example.getcurrentspeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678886822310-3e328t5qf3pm89t4ukflv5featdqb8i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getcurrentspeed",
+            "certificate_hash": "0fb429670542f61141d436d45d7cde76ab195526"
+          }
+        },
+        {
+          "client_id": "678886822310-fltc5qeoth2kbglfrgu1qp1b2cbrkg93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm6IgTmMXGGR7H14etEEOAFik0e5zHbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678886822310-fltc5qeoth2kbglfrgu1qp1b2cbrkg93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
